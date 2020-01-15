@@ -1,0 +1,64 @@
+#content{
+    height: 100vh;
+    width: 67%;
+    margin: auto;
+}
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+.featurette-heading {
+    font-size: 50px;
+}
+
+#scrollUp{
+    font-size:52px;
+    color:#9e9e9e;
+    margin: auto;
+}
+
+#scrollUp:hover{
+    color:#757575;
+    cursor: pointer;
+}
+
+.image1{
+    position:absolute;  
+    z-index:auto; 
+    border-style: solid; 
+}
+
+.image2{
+    position:absolute;  
+    z-index:1;  
+    left:-5px;  
+    top:-5px; 
+    transform: rotate(-2deg);
+    border-style: solid; 
+}
+
+.image3{
+    position:absolute;  
+    z-index:2;  
+    left:5px;  
+    top:6px; 
+    transform: rotate(2deg);
+    border-style: solid; 
+    cursor: pointer;
+}
+
+.modal-lg {
+    max-width: 1125px !important;
+}
+
+
+.custom_modal_image{
+    width: 350px; 
+    height: 400px; 
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-size: cover;
+    border-style: solid;
+}
