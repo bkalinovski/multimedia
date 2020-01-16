@@ -25,7 +25,7 @@ var settingsModule = function() {
                 "description": "Procesarea imaginilor digitale. \nProcesarea imaginilor digitale.",
                 "src": [
                     "./assets/images/colors.jpg",
-                    "./assets/images/gradientFilter.JPG",
+                    "./assets/images/gradientFilter.jpg",
                     "./assets/images/photoshoped.jpg",
                     "./assets/images/flowers.JPG"
                 ]
