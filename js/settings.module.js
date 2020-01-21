@@ -40,7 +40,8 @@ var settingsModule = function() {
                 "subtitle": "Inregistrarea digitala a sunetului.",
                 "description": "Procesarea sunetului. \nInregistrarea digitala a sunetului.",
                 "src": [
-                    "./assets/files/james-bay.mp3"
+                    "./assets/files/james-bay.mp3",
+                    "./assets/files/redactat_v1.mp3"
                 ]
             }
         },
